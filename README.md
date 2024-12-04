@@ -1,4 +1,4 @@
 # karthik-
 this is my first repo
 <br>
-author - karthik
+author - karthik reddy
